@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
 cd ~
 sudo pacman -Syu
